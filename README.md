@@ -1,4 +1,4 @@
-# formagil_app_admin
+# Agil Corporate University
 
 A new Flutter application.
 
